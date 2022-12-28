@@ -1,4 +1,4 @@
 # git-practice
 Name|Age|Height
 ---|---|---
-Ted|24|188
+Ted|24|185
